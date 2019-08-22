@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/BuyApp-HS/static/js/runtime~main.10cc8f58.js"
   },
   {
-    "revision": "8a048625d07cf1dd2f95",
-    "url": "/BuyApp-HS/static/js/main.d3442a13.chunk.js"
+    "revision": "fc24310c7977e6e05f19",
+    "url": "/BuyApp-HS/static/js/main.4bc44895.chunk.js"
   },
   {
     "revision": "2c245c6ccea9c25ebcfb",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/BuyApp-HS/static/css/2.c81a22d2.chunk.css"
   },
   {
-    "revision": "ba0ded0b06743bf42b72501b23d61732",
+    "revision": "19a0ee9901e8b58a442144067036e21d",
     "url": "/BuyApp-HS/index.html"
   }
 ];
