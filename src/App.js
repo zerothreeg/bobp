@@ -51,7 +51,7 @@ class App extends React.Component {
 							<h1>Заголовок</h1>
 							<h3>99.99 рублей</h3>
 							<p style={{marginTop: "20px"}}>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-						    <Button before={<Icon24LogoVk/>} size="l" onClick={() => connect.send("VKWebAppOpenPayForm", {"app_id": 7105689, "action": "pay-to-user", "params": {"amount": 1, "description": "Получение дейлика: "+this.state.hash, "user_id": 90327755}})}>Оплатить с VK Pay</Button>
+						    <Button before={<Icon24LogoVk/>} size="l" onClick={() => connect.send("VKWebAppOpenPayForm", {"app_id": 7105689, "action": "pay-to-user", "params": {"amount": 1, "user_id": 144944981}})}>Оплатить с VK Pay</Button>
 						</Div>
 					</Group>
 					<Group>
